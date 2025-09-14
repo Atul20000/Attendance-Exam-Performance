@@ -81,12 +81,24 @@ Monitor institution growth via admissions, dropouts, and feedback.
 
 📸 Dashboard Screenshots :-
 
-Attendance Tracker – Daily & Course Attendance.
+Attendance Tracker – Daily & Course Attendance.:-https://github.com/Atul20000/Attendance-Exam-Performance/blob/main/Attendance%20Tracker.png
 
-Attendance Insights – Monthly, Weekly, and At-Risk Students.
+Attendance Insights – Monthly, Weekly, and At-Risk Students:- https://github.com/Atul20000/Attendance-Exam-Performance/blob/main/Attendance%20Insights.png
 
-Exam Performance – Hardest/Easiest Courses, Top Students, Professor Overview.
+Exam Performance – Hardest/Easiest Courses, Top Students, Professor Overview.:-https://github.com/Atul20000/Attendance-Exam-Performance/blob/main/Exam%20Performance.png
 
-Attendance & Exam – Assignment vs. Exam Failures, High/Low Patterns.
+Attendance & Exam – Assignment vs. Exam Failures, High/Low Patterns.:-https://github.com/Atul20000/Attendance-Exam-Performance/blob/main/Attendance%20%26%20Exam.png
 
-Growth & Quality – Admissions, Dropouts, City & Mode-wise Analysis.
+Growth & Quality – Admissions, Dropouts, City & Mode-wise Analysis.:-https://github.com/Atul20000/Attendance-Exam-Performance/blob/main/Growth%20%26%20Quality.png
+
+
+📌 Future Improvements :-
+
+Build Predictive Models (ML) using historical attendance & scores to predict failures.
+
+Integrate Student Feedback NLP Analysis for course/professor insights.
+
+Add Automated Alerts for at-risk students via email/SMS.
+
+Develop a Mobile Version of Dashboard for real-time tracking by professors & students.
+
